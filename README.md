@@ -10,7 +10,10 @@ Proxyless, Unflagged Token password changer.
 
 # Preview 
 
+![alt text](https://i.imgur.com/6xLPm2q.jpg)
 
+# Planned
+200⭐️: Improved Quality & Proxy Support
 
 # Note 
 Do not DM me for help, I will ignore you and block you & also do not SKID
